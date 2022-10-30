@@ -6,6 +6,8 @@
 # Adicionalmente, en un documento titulado "Codigo", podrás ver el código que realicé para la práctica
 # Solo envío el código de "AntennaStreamingJob", que tiene todo el código para procesar el streaming
 #
-# El orden sugerido es ver el power point primero y después analizar el código 
+# Se agrego un .zip llamado Copia de bdprocessing. En este, se podrán ver los archivos parquet generados por la aplicación
+#
+# El orden sugerido es ver el power point primero, después analizar el código y finalmente confirmar los archivos parquet
 #
 
